@@ -5,4 +5,9 @@ npm install
 
 Add this token as manually into your wallet WRDL
 
-Contract Address = 0xC8F372709416560d1e0D17b806712C592d44FEB2
+Contract Address = 0x08eB3191742BE717f3c863A9056BaF9f35E38e05
+
+[Verify WRDL](https://testnet.aiascan.com/token/0x08eB3191742BE717f3c863A9056BaF9f35E38e05)
+
+## WordleChain (Built on AIA CHAIN)
+
