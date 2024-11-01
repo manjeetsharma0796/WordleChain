@@ -35,6 +35,8 @@ const setupGame = () => {
   const guessedWordElement = document.querySelector("#guess-area");
 
   const word = getRandomWord();
+  console.log(word);
+  
   const totalChance = 6;
   const wordle = new Wordle(word);
   const game = new Game(wordle, totalChance);
